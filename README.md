@@ -111,7 +111,7 @@ CURRENTLY="Freelance pentest engagements + AI Red Teaming courses"
 ![Prompt Injection](https://img.shields.io/badge/Prompt_Injection_Research-purple?style=flat-square)
 
 ### 🏅 Certifications & Standards
-![CHECK](https://img.shields.io/badge/CESG_CHECK_Team_Leader_(2011)-gold?style=flat-square&color=FFD700)
+![CHECK](https://img.shields.io/badge/CESG_CHECK_Team_Leader_(1999-2023)-gold?style=flat-square&color=FFD700)
 ![TigerScheme](https://img.shields.io/badge/TigerScheme_SST_Infrastructure-gold?style=flat-square&color=FFD700)
 ![CREST](https://img.shields.io/badge/CREST-gold?style=flat-square&color=FFD700)
 ![PRINCE2](https://img.shields.io/badge/PRINCE2_Practitioner-gold?style=flat-square&color=FFD700)
