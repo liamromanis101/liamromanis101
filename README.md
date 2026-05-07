@@ -48,6 +48,7 @@ CURRENTLY="Freelance pentest engagements + AI Red Teaming courses"
 ![Desktop](https://img.shields.io/badge/Desktop_Breakout_%26_PrivEsc-red?style=flat-square)
 ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-red?style=flat-square)
 ![SAP](https://img.shields.io/badge/SAP_Security_Review-red?style=flat-square)
+![AI](https://img.shields.io/badge/artificial-intelligence?style=flat-square)
 
 ### ☁️ Cloud & Identity Security
 ![Azure](https://img.shields.io/badge/Azure_AD_%2F_Entra_ID-0089d6?style=flat-square&logo=microsoftazure)
