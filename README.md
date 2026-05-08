@@ -108,6 +108,7 @@ CURRENTLY="Freelance pentest engagements + AI Red Teaming courses"
 
 ### 🤖 Artificial Intelligence & Security
 ![OpenAI](https://img.shields.io/badge/OpenAI_API_Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic?style=flat-square&logo=anthropic&logoColor=orange)
 ![AI Red Teaming](https://img.shields.io/badge/AI_Red_Teaming-412991?style=flat-square)
 ![Prompt Injection](https://img.shields.io/badge/Prompt_Injection_Research-purple?style=flat-square)
 
