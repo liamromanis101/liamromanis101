@@ -122,10 +122,7 @@ CURRENTLY="Freelance pentest engagements + AI Red Teaming courses"
 
 ## `ls -la /repos/`
 
-<!-- Live widget — hosted on GitHub Pages, auto-refreshes on load -->
-<div align="center">
 [![Repo feed preview](https://liamromanis101.github.io/profile-widget/preview-repos.png)](https://liamromanis101.github.io/profile-widget/)
-</div>
 
 ### Pinned highlights
 
