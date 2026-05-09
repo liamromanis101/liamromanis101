@@ -124,11 +124,7 @@ CURRENTLY="Freelance pentest engagements + AI Red Teaming courses"
 
 <!-- Live widget — hosted on GitHub Pages, auto-refreshes on load -->
 <div align="center">
-  <a href="https://liamromanis101.github.io/profile-widget/" target="_blank">
-    <img
-        [![Repo feed preview](https://liamromanis101.github.io/profile-widget/preview-repos.png)](https://liamromanis101.github.io/profile-widget/)
-    />
-  </a>
+[![Repo feed preview](https://liamromanis101.github.io/profile-widget/preview-repos.png)](https://liamromanis101.github.io/profile-widget/)
 </div>
 
 <br/>
