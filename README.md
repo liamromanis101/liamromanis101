@@ -126,8 +126,7 @@ CURRENTLY="Freelance pentest engagements + AI Red Teaming courses"
 <div align="center">
   <a href="https://liamromanis101.github.io/profile-widget/" target="_blank">
     <img
-      src="https://img.shields.io/badge/live_repo_feed-view_interactive_widget_→-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41"
-      alt="Live repo widget"
+        [![Repo feed preview](https://liamromanis101.github.io/profile-widget/preview-repos.png)](https://liamromanis101.github.io/profile-widget/)
     />
   </a>
 </div>
