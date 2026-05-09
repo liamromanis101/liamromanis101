@@ -212,9 +212,8 @@ PG/Diploma in IT — University of Glasgow
 
 <div align="center">
 
-![Liam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liamromanis101&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liamromanis101&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+> **🟢 [→ Live repo feed](https://liamromanis101.github.io/profile-widget/)**  
+> **🟢 [→ GitHub stats](https://liamromanis101.github.io/profile-widget/stats.html)**
 
 </div>
 
