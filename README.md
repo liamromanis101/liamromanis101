@@ -121,7 +121,7 @@ CURRENTLY="Freelance pentest engagements + AI Red Teaming courses"
 ---
 
 ## `ls -la /repos/`
-
+Click me:
 [![Repo feed preview](https://liamromanis101.github.io/profile-widget/preview-repos.png)](https://liamromanis101.github.io/profile-widget/)
 
 ### Pinned highlights
@@ -194,7 +194,7 @@ PG/Diploma in IT — University of Glasgow
 ---
 
 ## GitHub Stats
-
+Click me:
 <div align="center">
 
 [![Stats preview](https://liamromanis101.github.io/profile-widget/preview-stats.png)](https://liamromanis101.github.io/profile-widget/stats.html)
