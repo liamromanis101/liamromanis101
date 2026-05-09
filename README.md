@@ -1,19 +1,7 @@
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   ██╗     ██████╗      ██╗ ██████╗  ██╗                                     │
-│   ██║     ██╔══██╗    ███║██╔═████╗███║                                     │
-│   ██║     ██████╔╝    ╚██║██║██╔██║╚██║                                     │
-│   ██║     ██╔══██╗     ██║████╔╝██║ ██║                                     │
-│   ███████╗██║  ██║     ██║╚██████╔╝ ██║                                     │
-│   ╚══════╝╚═╝  ╚═╝     ╚═╝ ╚═════╝  ╚═╝                                     │
-│                                                                              │
-│         Senior Penetration Tester & Principal Security Consultant            │
-│                        29+ Years in Offensive Security                       │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+Click me:
+[![Header preview](https://liamromanis101.github.io/profile-widget/preview-header.png)](https://liamromanis101.github.io/profile-widget/)
 
 </div>
 
