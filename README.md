@@ -15,7 +15,6 @@
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-
 </div>
 
 ---
@@ -123,21 +122,40 @@ CURRENTLY="Freelance pentest engagements + AI Red Teaming courses"
 
 ## `ls -la /repos/`
 
-### 🛠️ [AWS-IAM-Policy-Audit](https://github.com/liamromanis101/AWS-IAM-Policy-Audit)
+<!-- Live widget — hosted on GitHub Pages, auto-refreshes on load -->
+<div align="center">
+  <a href="https://liamromanis101.github.io/profile-widget/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/live_repo_feed-view_interactive_widget_→-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41"
+      alt="Live repo widget"
+    />
+  </a>
+</div>
+
+<br/>
+
+> **🟢 [→ View the live interactive repo widget](https://liamromanis101.github.io/profile-widget/)**
+> *(Fetches live from GitHub API — sorted by stars, forks, or last updated)*
+
+<br/>
+
+### Pinned highlights
+
+#### 🛠️ [AWS-IAM-Policy-Audit](https://github.com/liamromanis101/AWS-IAM-Policy-Audit)
 > Python 3 tool to analyze AWS IAM policies for risky permissions. Tracks affected principals, simulates sensitive actions, detects privilege escalation patterns, and flags cross-account trust exposures. Outputs findings in Table, JSON, or CSV with severity scoring (0–100).
 
 `Python` · `AWS` · `IAM` · `PrivEsc Detection` · `Cloud Security`
 
 ---
 
-### 🦑 [Snecky](https://github.com/liamromanis101/Snecky)
+#### 🦑 [Snecky](https://github.com/liamromanis101/Snecky)
 > Passive network sniffing tool that simplifies detection and reporting of network protocols with weak configurations. Outputs results in Nessus-compatible format for seamless import into reporting tools.
 
 `Python` · `Network Security` · `Passive Recon` · `Nessus Integration`
 
 ---
 
-### 💥 [CVE-2025-29927-NextJS](https://github.com/liamromanis101/CVE-2025-29927-NextJS)
+#### 💥 [CVE-2025-29927-NextJS](https://github.com/liamromanis101/CVE-2025-29927-NextJS)
 > Proof-of-Concept for CVE-2025-29927 — a critical middleware bypass vulnerability affecting Next.js versions 11.x through 15.x. For authorised security testing and verification.
 
 `Python` · `CVE Research` · `Next.js` · `Web App Security`
@@ -205,10 +223,10 @@ PG/Diploma in IT — University of Glasgow
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  "Security is not a product, but a process — and I've been in that       │
-│   process longer than most frameworks have existed."                     │
-└──────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  "Security is not a product, but a process — and I've been in that           │
+│   process longer than most frameworks have existed."                         │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 *All tools and PoCs published here are intended for authorised security testing and research only.*
