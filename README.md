@@ -127,13 +127,6 @@ CURRENTLY="Freelance pentest engagements + AI Red Teaming courses"
 [![Repo feed preview](https://liamromanis101.github.io/profile-widget/preview-repos.png)](https://liamromanis101.github.io/profile-widget/)
 </div>
 
-<br/>
-
-> **🟢 [→ View the live interactive repo widget](https://liamromanis101.github.io/profile-widget/)**
-> *(Fetches live from GitHub API — sorted by stars, forks, or last updated)*
-
-<br/>
-
 ### Pinned highlights
 
 #### 🛠️ [AWS-IAM-Policy-Audit](https://github.com/liamromanis101/AWS-IAM-Policy-Audit)
@@ -207,8 +200,7 @@ PG/Diploma in IT — University of Glasgow
 
 <div align="center">
 
-> **🟢 [→ Live repo feed](https://liamromanis101.github.io/profile-widget/)**  
-> **🟢 [→ GitHub stats](https://liamromanis101.github.io/profile-widget/stats.html)**
+[![Stats preview](https://liamromanis101.github.io/profile-widget/preview-stats.png)](https://liamromanis101.github.io/profile-widget/stats.html)
 
 </div>
 
