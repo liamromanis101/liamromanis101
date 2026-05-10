@@ -148,19 +148,6 @@ Click me:
 
 ---
 
-## `cat /var/log/career.log | grep highlights`
-
-```
-[1999–2023]  CESG CHECK Team Leader — one of the UK's longest continuous tenures
-[2018-07-01] Published Cisco IronPort high-risk vulnerability (post-Cisco patch release)
-[2020]       Principal Security Consultant — led large-scale OT security assessments
-[2023–2024]  Built OpenAI API-integrated security tooling at Resillion
-[2024–NOW]   Freelance — web, cloud, mobile, SAP, infrastructure, AI security
-[ONGOING]    Vulnerability research & responsible disclosure programme
-```
-
----
-
 ## `cat experience.txt | grep sectors`
 
 ```
@@ -168,15 +155,6 @@ Click me:
 ✔ Financial Services (MetroBank, ICAP, EBLF)   ✔ Telecommunications
 ✔ Critical National Infrastructure   ✔ NHS & Central Government
 ✔ Commercial Enterprise              ✔ SaaS & Cloud Platforms
-```
-
----
-
-## `cat /etc/education`
-
-```
-MA (Hons) English Language & Literature — University of Aberdeen
-PG/Diploma in IT — University of Glasgow
 ```
 
 ---
