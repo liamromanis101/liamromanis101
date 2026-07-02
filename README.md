@@ -44,6 +44,8 @@ I combine three decades of offensive security experience with practical software
 - LLM Security
 - Github Security
 
+---
+
 ## `ls -la /repos/`
 Click me:
 [![Repo feed preview](https://liamromanis101.github.io/profile-widget/preview-repos.png)](https://liamromanis101.github.io/profile-widget/)
