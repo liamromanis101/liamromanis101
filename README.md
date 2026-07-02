@@ -32,6 +32,18 @@ I combine three decades of offensive security experience with practical software
 
 ---
 
+## Current Research
+
+- Kubernetes container escape techniques
+- Linux namespace isolation
+- AWS IAM privilege escalation
+- Microsoft Entra Conditional Access
+- AI-assisted security analysis
+- Secure software tooling
+- Holistic Cloud Security
+- LLM Security
+- Github Security
+
 ## `ls -la /repos/`
 Click me:
 [![Repo feed preview](https://liamromanis101.github.io/profile-widget/preview-repos.png)](https://liamromanis101.github.io/profile-widget/)
