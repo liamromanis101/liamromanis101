@@ -13,7 +13,7 @@ Click me [Headphones On]:
 $ cat /etc/profile.d/liam.sh
 
 NAME="Liam Romanis"
-ROLE="Senior Penetration Tester | Principal Security Consultant | Freelance"
+ROLE="cloud-native security researcher / tooling engineer / Offensive Security Veteran"
 EXPERIENCE="29+ years in offensive security"
 FORMER_ROLE="CESG CHECK Team Leader (1999–2023) — one of the longest continuous tenures in the scheme"
 SECTORS="UK Government · MOD · Defence Primes · Financial Services · Telecomms · CNI · Commercial"
