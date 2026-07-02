@@ -28,7 +28,7 @@ CURRENTLY="Developing cloud-native security tooling, researching Kubernetes atta
 
 I’m interested in senior roles involving cloud security engineering, Kubernetes security, security research, application security, product security and offensive security automation.
 
-My strongest value is combining 30 years of offensive security experience with practical tool development for modern cloud and containerised environments.
+I combine three decades of offensive security experience with practical software development to build tools that help organisations secure modern cloud and containerised environments.
 
 ---
 
