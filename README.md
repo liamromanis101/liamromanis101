@@ -13,8 +13,9 @@ Click me [Headphones On]:
 $ cat /etc/profile.d/liam.sh
 
 NAME="Liam Romanis"
-ROLE="cloud-native security researcher / tooling engineer / Offensive Security Veteran"
-EXPERIENCE="29+ years in offensive security"
+ROLE="Senior Cloud Security Consultant | Security Tool Developer |  Offensive Security Veteran"
+EXPERIENCE="30 years in offensive security, vulnerability research and security assurance"
+CURRENT_FOCUS="Kubernetes security · Container escape assessment · Cloud IAM · AI-assisted security tooling"
 FORMER_ROLE="CESG CHECK Team Leader (1999–2023) — one of the longest continuous tenures in the scheme"
 SECTORS="UK Government · MOD · Defence Primes · Financial Services · Telecomms · CNI · Commercial"
 FOCUS="Manual testing excellence · Vulnerability research · Pragmatic risk-based assessment"
@@ -114,12 +115,46 @@ Click me:
 
 ### Pinned highlights
 
+#### [K8S Container Escape Audit](https://github.com/liamromanis101/K8s-container_escape_audit)
+> A bash script that runs inside a Docker or Kubernetes container and checks for escape vectors. Built for penetration testers and security teams doing container security assessments.
+
+`bash` . `Docker` . `Kubernetes` . `Linux` . `Vulnerabilities` . `Mitigations`
+
+---
+
 #### 🛠️ [AWS-IAM-Policy-Audit](https://github.com/liamromanis101/AWS-IAM-Policy-Audit)
 > Python 3 tool to analyze AWS IAM policies for risky permissions. Tracks affected principals, simulates sensitive actions, detects privilege escalation patterns, and flags cross-account trust exposures. Outputs findings in Table, JSON, or CSV with severity scoring (0–100).
 
 `Python` · `AWS` · `IAM` · `PrivEsc Detection` · `Cloud Security`
 
 ---
+
+#### [AWS Cross Account AssumeRoles](https://github.com/liamromanis101/AWS-Cross-Account-AssumeRoles)
+> Python 3 tool which dentifies potentially insecure IAM role trust policies in your AWS environment. Specifically, it detects roles that allow cross-account AssumeRole access without enforcing ExternalId or MFA, which can pose a security risk.
+
+`AWS` . `Python` . `IAM`
+
+---
+
+#### [Get-AzStorageAccounts](https://github.com/liamromanis101/Get-AzStorageAccounts)
+> Python3 script which enumerates available subscriptions and storage accounts in each. It then tests for weak configuration items.
+
+`Azure` . `Storage Accounts` . `Python`
+
+---
+#### [M365 Scripts](https://github.com/liamromanis101/M365-Scripts)
+> Collection of scripts for testing M365 subscriptions (& Azure). Most of these scripts assume that access has been gained with a low privilege user account or that you are performing testing as a typical user where you do not have access to powershell. These scripts are intended for educational purposes or for authorized security assessments.
+
+`M365` . `Python`
+
+---
+#### [Enumerate Azure Conditional Access Policies](https://github.com/liamromanis101/Enum-AzConditionalAccessPolicies)
+> This script gets a count of all users in the tenant for comparision. It then gets each Conditional Access Policy and enumerate all included and excluded users, groups and roles. It then gets the members of each group and users with each role, then it sorts and uniques all included users and members of groups and roles to get a count of all included users accounts. It performs the sam functions on excluded users, groups and roles to get a count of all unique excluded users. Because the script gets a count of all users in the tenant we can calculate the total number of users not affected by a policy [total users - total unique included users]. The script also gets a list of all included and excluded Apps and Resources. There is some output to the screen and a CSV file is output at the end.
+
+`Azure` . `PowerShell` . `Microsoft Entra ID` . `Conditional Access Policies`
+
+---
+
 
 #### 🦑 [Snecky](https://github.com/liamromanis101/Snecky)
 > Passive network sniffing tool that simplifies detection and reporting of network protocols with weak configurations. Outputs results in Nessus-compatible format for seamless import into reporting tools.
