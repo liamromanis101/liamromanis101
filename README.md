@@ -24,6 +24,76 @@ CURRENTLY="Freelance pentest engagements + AI Red Teaming courses"
 
 ---
 
+## For hiring teams
+
+I’m interested in senior roles involving cloud security engineering, Kubernetes security, security research, application security, product security and offensive security automation.
+
+My strongest value is combining 30 years of offensive security experience with practical tool development for modern cloud and containerised environments.
+
+---
+
+## `ls -la /repos/`
+Click me:
+[![Repo feed preview](https://liamromanis101.github.io/profile-widget/preview-repos.png)](https://liamromanis101.github.io/profile-widget/)
+
+### Pinned highlights
+
+#### [K8S Container Escape Audit](https://github.com/liamromanis101/K8s-container_escape_audit)
+> A bash script that runs inside a Docker or Kubernetes container and checks for escape vectors. Built for penetration testers and security teams doing container security assessments.
+
+`bash` . `Docker` . `Kubernetes` . `Linux` . `Vulnerabilities` . `Mitigations`
+
+---
+
+#### 🛠️ [AWS-IAM-Policy-Audit](https://github.com/liamromanis101/AWS-IAM-Policy-Audit)
+> Python 3 tool to analyze AWS IAM policies for risky permissions. Tracks affected principals, simulates sensitive actions, detects privilege escalation patterns, and flags cross-account trust exposures. Outputs findings in Table, JSON, or CSV with severity scoring (0–100).
+
+`Python` · `AWS` · `IAM` · `PrivEsc Detection` · `Cloud Security`
+
+---
+
+#### [AWS Cross Account AssumeRoles](https://github.com/liamromanis101/AWS-Cross-Account-AssumeRoles)
+> Python 3 tool which dentifies potentially insecure IAM role trust policies in your AWS environment. Specifically, it detects roles that allow cross-account AssumeRole access without enforcing ExternalId or MFA, which can pose a security risk.
+
+`AWS` . `Python` . `IAM`
+
+---
+
+#### [Get-AzStorageAccounts](https://github.com/liamromanis101/Get-AzStorageAccounts)
+> Python3 script which enumerates available subscriptions and storage accounts in each. It then tests for weak configuration items.
+
+`Azure` . `Storage Accounts` . `Python`
+
+---
+#### [M365 Scripts](https://github.com/liamromanis101/M365-Scripts)
+> Collection of scripts for testing M365 subscriptions (& Azure). Most of these scripts assume that access has been gained with a low privilege user account or that you are performing testing as a typical user where you do not have access to powershell. These scripts are intended for educational purposes or for authorized security assessments.
+
+`M365` . `Python`
+
+---
+#### [Enumerate Azure Conditional Access Policies](https://github.com/liamromanis101/Enum-AzConditionalAccessPolicies)
+> This script gets a count of all users in the tenant for comparision. It then gets each Conditional Access Policy and enumerate all included and excluded users, groups and roles. It then gets the members of each group and users with each role, then it sorts and uniques all included users and members of groups and roles to get a count of all included users accounts. It performs the sam functions on excluded users, groups and roles to get a count of all unique excluded users. Because the script gets a count of all users in the tenant we can calculate the total number of users not affected by a policy [total users - total unique included users]. The script also gets a list of all included and excluded Apps and Resources. There is some output to the screen and a CSV file is output at the end.
+
+`Azure` . `PowerShell` . `Microsoft Entra ID` . `Conditional Access Policies`
+
+---
+
+
+#### 🦑 [Snecky](https://github.com/liamromanis101/Snecky)
+> Passive network sniffing tool that simplifies detection and reporting of network protocols with weak configurations. Outputs results in Nessus-compatible format for seamless import into reporting tools.
+
+`Python` · `Network Security` · `Passive Recon` · `Nessus Integration`
+
+---
+
+#### 💥 [CVE-2025-29927-NextJS](https://github.com/liamromanis101/CVE-2025-29927-NextJS)
+> Proof-of-Concept for CVE-2025-29927 — a critical middleware bypass vulnerability affecting Next.js versions 11.x through 15.x. For authorised security testing and verification.
+
+`Python` · `CVE Research` · `Next.js` · `Web App Security`
+
+---
+
+
 ## `cat skills.txt`
 
 ### 🔴 Penetration Testing & Offensive Security
@@ -109,66 +179,6 @@ CURRENTLY="Freelance pentest engagements + AI Red Teaming courses"
 
 ---
 
-## `ls -la /repos/`
-Click me:
-[![Repo feed preview](https://liamromanis101.github.io/profile-widget/preview-repos.png)](https://liamromanis101.github.io/profile-widget/)
-
-### Pinned highlights
-
-#### [K8S Container Escape Audit](https://github.com/liamromanis101/K8s-container_escape_audit)
-> A bash script that runs inside a Docker or Kubernetes container and checks for escape vectors. Built for penetration testers and security teams doing container security assessments.
-
-`bash` . `Docker` . `Kubernetes` . `Linux` . `Vulnerabilities` . `Mitigations`
-
----
-
-#### 🛠️ [AWS-IAM-Policy-Audit](https://github.com/liamromanis101/AWS-IAM-Policy-Audit)
-> Python 3 tool to analyze AWS IAM policies for risky permissions. Tracks affected principals, simulates sensitive actions, detects privilege escalation patterns, and flags cross-account trust exposures. Outputs findings in Table, JSON, or CSV with severity scoring (0–100).
-
-`Python` · `AWS` · `IAM` · `PrivEsc Detection` · `Cloud Security`
-
----
-
-#### [AWS Cross Account AssumeRoles](https://github.com/liamromanis101/AWS-Cross-Account-AssumeRoles)
-> Python 3 tool which dentifies potentially insecure IAM role trust policies in your AWS environment. Specifically, it detects roles that allow cross-account AssumeRole access without enforcing ExternalId or MFA, which can pose a security risk.
-
-`AWS` . `Python` . `IAM`
-
----
-
-#### [Get-AzStorageAccounts](https://github.com/liamromanis101/Get-AzStorageAccounts)
-> Python3 script which enumerates available subscriptions and storage accounts in each. It then tests for weak configuration items.
-
-`Azure` . `Storage Accounts` . `Python`
-
----
-#### [M365 Scripts](https://github.com/liamromanis101/M365-Scripts)
-> Collection of scripts for testing M365 subscriptions (& Azure). Most of these scripts assume that access has been gained with a low privilege user account or that you are performing testing as a typical user where you do not have access to powershell. These scripts are intended for educational purposes or for authorized security assessments.
-
-`M365` . `Python`
-
----
-#### [Enumerate Azure Conditional Access Policies](https://github.com/liamromanis101/Enum-AzConditionalAccessPolicies)
-> This script gets a count of all users in the tenant for comparision. It then gets each Conditional Access Policy and enumerate all included and excluded users, groups and roles. It then gets the members of each group and users with each role, then it sorts and uniques all included users and members of groups and roles to get a count of all included users accounts. It performs the sam functions on excluded users, groups and roles to get a count of all unique excluded users. Because the script gets a count of all users in the tenant we can calculate the total number of users not affected by a policy [total users - total unique included users]. The script also gets a list of all included and excluded Apps and Resources. There is some output to the screen and a CSV file is output at the end.
-
-`Azure` . `PowerShell` . `Microsoft Entra ID` . `Conditional Access Policies`
-
----
-
-
-#### 🦑 [Snecky](https://github.com/liamromanis101/Snecky)
-> Passive network sniffing tool that simplifies detection and reporting of network protocols with weak configurations. Outputs results in Nessus-compatible format for seamless import into reporting tools.
-
-`Python` · `Network Security` · `Passive Recon` · `Nessus Integration`
-
----
-
-#### 💥 [CVE-2025-29927-NextJS](https://github.com/liamromanis101/CVE-2025-29927-NextJS)
-> Proof-of-Concept for CVE-2025-29927 — a critical middleware bypass vulnerability affecting Next.js versions 11.x through 15.x. For authorised security testing and verification.
-
-`Python` · `CVE Research` · `Next.js` · `Web App Security`
-
----
 
 ### 🔧 Additional Tools (developed during engagements)
 | Tool | Description |
