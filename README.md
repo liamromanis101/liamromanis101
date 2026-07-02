@@ -19,7 +19,7 @@ CURRENT_FOCUS="Kubernetes security · Container escape assessment · Cloud IAM �
 FORMER_ROLE="CESG CHECK Team Leader (1999–2023) — one of the longest continuous tenures in the scheme"
 SECTORS="UK Government · MOD · Defence Primes · Financial Services · Telecomms · CNI · Commercial"
 FOCUS="Manual testing excellence · Vulnerability research · Pragmatic risk-based assessment"
-CURRENTLY="Freelance pentest engagements + AI Red Teaming courses"
+CURRENTLY="Developing cloud-native security tooling, researching Kubernetes attack paths and applying AI to security engineering workflows."
 ```
 
 ---
