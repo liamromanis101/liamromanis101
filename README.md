@@ -93,6 +93,41 @@ Click me:
 
 ---
 
+### 🔧 Additional Tools (developed during engagements)
+| Tool | Description |
+|------|-------------|
+| **SNMPPLUX** | SNMP enumeration and analysis tooling |
+| **LibScanner** | Library/dependency scanning utility |
+| **ORR** | Offline reporting and review tool |
+| **SSLScanner (PHP)** | SSL/TLS configuration scanner |
+| **Azure MFA Auditor** | Identifies Azure users without MFA where standard tooling fails |
+| **Azure Conditional Access Extractor** | Extracts and analyses Conditional Access policies, outputs CSV artefacts |
+| **Azure Storage Assessor** | Internal and external Azure storage enumeration and assessment |
+
+---
+
+## `cat experience.txt | grep sectors`
+
+```
+✔ UK Government & MOD                ✔ Defence Primes
+✔ Financial Services (MetroBank, ICAP, EBLF)   ✔ Telecommunications
+✔ Critical National Infrastructure   ✔ NHS & Central Government
+✔ Commercial Enterprise              ✔ SaaS & Cloud Platforms
+```
+
+---
+
+## GitHub Stats
+Click me:
+<div align="center">
+
+[![Stats preview](https://liamromanis101.github.io/profile-widget/preview-stats.png)](https://liamromanis101.github.io/profile-widget/stats.html)
+
+</div>
+
+---
+
+<div align="center">
 
 ## `cat skills.txt`
 
@@ -179,42 +214,6 @@ Click me:
 
 ---
 
-
-### 🔧 Additional Tools (developed during engagements)
-| Tool | Description |
-|------|-------------|
-| **SNMPPLUX** | SNMP enumeration and analysis tooling |
-| **LibScanner** | Library/dependency scanning utility |
-| **ORR** | Offline reporting and review tool |
-| **SSLScanner (PHP)** | SSL/TLS configuration scanner |
-| **Azure MFA Auditor** | Identifies Azure users without MFA where standard tooling fails |
-| **Azure Conditional Access Extractor** | Extracts and analyses Conditional Access policies, outputs CSV artefacts |
-| **Azure Storage Assessor** | Internal and external Azure storage enumeration and assessment |
-
----
-
-## `cat experience.txt | grep sectors`
-
-```
-✔ UK Government & MOD                ✔ Defence Primes
-✔ Financial Services (MetroBank, ICAP, EBLF)   ✔ Telecommunications
-✔ Critical National Infrastructure   ✔ NHS & Central Government
-✔ Commercial Enterprise              ✔ SaaS & Cloud Platforms
-```
-
----
-
-## GitHub Stats
-Click me:
-<div align="center">
-
-[![Stats preview](https://liamromanis101.github.io/profile-widget/preview-stats.png)](https://liamromanis101.github.io/profile-widget/stats.html)
-
-</div>
-
----
-
-<div align="center">
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
