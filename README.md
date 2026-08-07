@@ -30,6 +30,12 @@ I’m interested in senior roles involving cloud security engineering, Kubernete
 
 I combine three decades of offensive security experience with practical software development to build tools that help organisations secure modern cloud and containerised environments.
 
+Alternatively, please consider sponsoring me: 
+
+### Sponsor
+
+[![Sponsor](https://img.shields.io/github/sponsors/liamromanis101?label=Sponsor&logo=GitHub&color=db61a2)](https://github.com/sponsors/liamromanis101)
+
 ---
 
 ## Current Research
